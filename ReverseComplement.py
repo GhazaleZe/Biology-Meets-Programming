@@ -13,5 +13,7 @@ def Complement(Pattern):
         elif c == 'C':
             new += 'G'
     return new
-print(Reverse("AAAACCCGGT"))
-print(Complement("AAAACCCGGT"))
+def ReverseComplement(Pattern):
+    new=Reverse(Pattern)
+    return Complement(new)
+print(ReverseComplement("AAAACCCGGT"))
