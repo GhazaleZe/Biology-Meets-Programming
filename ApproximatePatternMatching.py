@@ -16,6 +16,16 @@ def ApproximatePatternMatching(Text, Pattern, d):
             positions.append(i)
     return positions
 
+def ApproximatePatternCount(Pattern,Text, d):
+    positions = []  # initializing list of positions
+    n = len(Text)
+    k = len(Pattern)
+    for i in range(n - k + 1):
+        if (HammingDistance(Pattern, Text[i:i + k]) <= d):
+            positions.append(i)
+    number = len(positions)
+    return number
+
 
 print(
     ApproximatePatternMatching("CGCCCGAATCCAGAACGCATTCCCATATTTCGGGACCACTGGCCTCCACGGTACGGACGTCAATCAAAT", "ATTCTGGA", 3))
