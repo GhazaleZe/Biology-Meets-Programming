@@ -1,3 +1,13 @@
+def MinimumSkew(Genome):
+    skew = SkewArray(Genome)
+    min_val = min(skew)
+    min_list = []
+    for i in range(len(skew)):
+        if skew[i] == min_val:
+            min_list.append(i)
+    return min_list
+
+
 def SkewArray(Genome):
     Skew = [0]
     for i in range(1, len(Genome) + 1):
@@ -11,4 +21,4 @@ def SkewArray(Genome):
     return Skew
 
 
-print(SkewArray("CATGGGCATCGGCCATACGCC"))
+print(MinimumSkew("TAAAGACTGCCGAGAGGCCAACACGAGTGCTAGAACGAGGGGCGTAAACGCGGGTCCGAT"))
