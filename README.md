@@ -8,7 +8,7 @@ These files are for the first week :blush: :
 - PatternMatching.py
 - PatternInRegion.py
 
-These files are for the second week :relaxed: :
+These files are for the second week :smile: :
 - SymbolArray.py
 - SkewArray.py
 - HammingDistance.py
