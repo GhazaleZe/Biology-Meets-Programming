@@ -18,12 +18,12 @@ These files are for the second week :smile: :
 
 These files are for the third week :grimacing: :
 
--Motifs.py  
--Consensus.py     
--Score.py      
--probability.py    
--ProfileMostProbablePattern.py    
--GreedyMotifSearch.py
+- Motifs.py  
+- Consensus.py     
+- Score.py      
+- probability.py    
+- ProfileMostProbablePattern.py    
+- GreedyMotifSearch.py
 
 <img width="848" alt="image_2020-03-26_02-09-28" src="https://user-images.githubusercontent.com/41547574/77675701-e2e4f280-6faa-11ea-8df1-e2f43e6afb22.png">
 
