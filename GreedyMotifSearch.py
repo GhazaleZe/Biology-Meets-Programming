@@ -84,3 +84,7 @@ def GreedyMotifSearch(Dna, k, t):
         if Score(Motifs) < Score(BestMotifs):
             BestMotifs = Motifs
     return BestMotifs
+
+
+Dna= ["GGCGTTCAGGCA","AAGAATCAGTCA","CAAGGAGTTCGC","CACGTCAATCAC","CAATAATATTCG"]
+print(GreedyMotifSearch(Dna,3,5))
