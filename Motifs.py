@@ -5,6 +5,7 @@ def Count(Motifs):
         count[symbol] = []
         for j in range(k):
             count[symbol].append(0)
+            # count[symbol].append(1) change the count function to CountWithPseudocounts(Motifs) function for week 4
     t = len(Motifs)
     for i in range(t):
         for j in range(k):
