@@ -16,6 +16,7 @@ def Count(Motifs):
 
 def Profile(Motifs):
     t = len(Motifs)
+    # t += 4 in week for we change Profile fuction to ProfileWithPseudocounts(Motifs) with this line
     k = len(Motifs[0])
     profile = Count(Motifs)
     for symbol in "ACGT":
