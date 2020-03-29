@@ -39,7 +39,7 @@ These files are for the fourth week :heart_eyes: :
 
 ### Some additional notes:
 
-**Laplace’s Rule of Succession** is used for  **CountWithPseudocounts** function.
+**Laplace’s Rule of Succession** is used for  **CountWithPseudocounts** function.   
 **RandomizedMotifSearch** has the advantage of being able to find **longer motifs**.
 
 > Just don't forget to be happy :wink:
