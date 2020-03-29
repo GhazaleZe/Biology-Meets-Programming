@@ -27,3 +27,12 @@ These files are for the third week :grimacing: :
 
 <img width="848" alt="image_2020-03-26_02-09-28" src="https://user-images.githubusercontent.com/41547574/77675701-e2e4f280-6faa-11ea-8df1-e2f43e6afb22.png">
 
+These files are for the fourth week :heart_eyes: :
+
+- RandomizedMotifSearch.py
+- Motif_Week4.py
+- Normalize.py
+- RandomizedMotifSearch.py
+- ProfileGeneratedString.py
+- RandomMotifs.py
+- GibbsSampler.py
