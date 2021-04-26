@@ -29,13 +29,13 @@ These files are for the third week :grimacing: :
 
 These files are for the fourth week :heart_eyes: :
 
-- [RandomizedMotifSearch.py](ThirdWeek/RandomizedMotifSearch.py)
-- [Motif_Week4.py](ThirdWeek/Motif_Week4.py)
-- [Normalize.py](ThirdWeek/Normalize.py)
-- [RandomizedMotifSearch.py](ThirdWeek/RandomizedMotifSearch.py)
-- [ProfileGeneratedString.py](ThirdWeek/ProfileGeneratedString.py)
-- [RandomMotifs.py](ThirdWeek/RandomMotifs.py)
-- [GibbsSampler.py](ThirdWeek/GibbsSampler.py)
+- [RandomizedMotifSearch.py](FourthWeek/RandomizedMotifSearch.py)
+- [Motif_Week4.py](FourthWeek/Motif_Week4.py)
+- [Normalize.py](FourthWeek/Normalize.py)
+- [RandomizedMotifSearch.py](FourthWeek/RandomizedMotifSearch.py)
+- [ProfileGeneratedString.py](FourthWeek/ProfileGeneratedString.py)
+- [RandomMotifs.py](FourthWeek/RandomMotifs.py)
+- [GibbsSampler.py](FourthWeek/GibbsSampler.py)
 
 ### Some additional notes:
 
