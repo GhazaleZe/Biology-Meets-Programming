@@ -2,21 +2,21 @@
 
 My codes of the Coursera's course named "Biology Meets Programming: Bioinformatics for Beginners"  are in this repository. 
 
-These files are for the first week :blush: :
+These files are for the [first week](FirstWeek) :blush: :
 
 - [hidden_messages_dictionary.py](FirstWeek/hidden_messages_dictionary.py)
 - [ReverseComplement.py](FirstWeek/ReverseComplement.py)
 - [PatternMatching.py](FirstWeek/PatternMatching.py)
 - [PatternInRegion.py](FirstWeek/PatternInRegion.py)
 
-These files are for the second week :smile: :
+These files are for the [second week](SecondWeek) :smile: :
 
 - [SymbolArray.py](SecondWeek/SymbolArray.py)
 - [SkewArray.py](SecondWeek/SkewArray.py)
 - [HammingDistance.py](SecondWeek/HammingDistance.py)
 - [ApproximatePatternMatching.py](SecondWeek/ApproximatePatternMatching.py)
 
-These files are for the third week :grimacing: :
+These files are for the [third week](ThirdWeek) :grimacing: :
 
 - [Motifs.py](ThirdWeek/Motifs.py)
 - [Consensus.py](ThirdWeek/Consensus.py)
@@ -27,7 +27,7 @@ These files are for the third week :grimacing: :
 
 <img width="848" alt="image_2020-03-26_02-09-28" src="https://user-images.githubusercontent.com/41547574/77675701-e2e4f280-6faa-11ea-8df1-e2f43e6afb22.png">
 
-These files are for the fourth week :heart_eyes: :
+These files are for the [fourth week](FourthWeek) :heart_eyes: :
 
 - [RandomizedMotifSearch.py](FourthWeek/RandomizedMotifSearch.py)
 - [Motif_Week4.py](FourthWeek/Motif_Week4.py)
